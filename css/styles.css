@@ -1,0 +1,89 @@
+body{
+    background-image: url(../assets/home/background-home-desktop.jpg);
+}
+ul{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+nav{
+    position: absolute;
+    right: 0;
+    text-align: left;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2.7px;
+    padding: 38px 191px;
+    backdrop-filter: blur(100px);
+    box-shadow: -5px 5px 50px black;
+    width: auto;
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    color: #fff;
+    margin-inline: 24px;
+}
+
+h1{
+    font-family: 'Bellefair', serif;
+}
+
+span{
+    font-weight: bold;
+}
+
+p{
+    color: #D0D6F9;
+}
+
+hr{
+    border-style: solid none none white;
+    width: 400px;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+
+
+#space{
+    color: #fff;
+    font-size: 9.3em;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+#explore{
+    position: absolute;
+    left: 65px;
+    top: 100px;
+    font-weight: lighter;
+    font-size: 32px;
+}
+
+.wrap{
+    height: 274px;
+    position: absolute;
+    right: 1.1%;
+    bottom: 14.5%;
+    width: 274px;
+    background-color: white;
+    border-radius: 50%;
+}
+.top-p{
+    font-size: 28px;
+    letter-spacing: 4.73px;
+}
+
+.bottom-p{
+    font-size: 18px;
+    line-height: 2rem;
+}
+.text-block{
+    position: absolute;
+    left: 165px;
+    top:40%;
+    width: 31.25%;
+}
